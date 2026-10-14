@@ -28,5 +28,5 @@ There's something deeply satisfying about building systems that work smoothly, b
 I'm always happy to talk about engineering, email deliverability, or the best substrate mix for ducky isopods.
 
 📫 **Reach me:** <iris@omg.lol>  
-💼 **LinkedIn:** [linkedin.com/in/irisjtrevino](https://www.linkedin.com/in/irisjtrevino)  
+💼 **LinkedIn:** [linkedin.com/in/iriscox](https://www.linkedin.com/in/iriscox)  
 📍 **Location:** Schertz, TX
